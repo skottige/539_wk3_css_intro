@@ -11,5 +11,6 @@ h2 {
     font-weight: 300;
     font-style: normal;
     color: blue;
-    background-color: white;
+    background-color: #F9C8F9;
+    border: solid 3px green;
 }
